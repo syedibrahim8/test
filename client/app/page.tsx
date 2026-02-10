@@ -138,7 +138,7 @@ export default function Page() {
         </div>
 
         <footer className="pt-2 text-xs text-muted-foreground">
-          Built with ❤️ Next.js • TypeScript • TanStack • Zustand • shadcn/ui @ Copy rights reserved 2026
+          Built with ❤️ Next.js • TypeScript • TanStack • Zustand • shadcn/ui @ Copyrights reserved 2026
         </footer>
       </main>
     </div>
